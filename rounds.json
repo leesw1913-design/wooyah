@@ -1,5 +1,7 @@
 {
-  "last": 1239,
-  "generated": "2026-09-01",
-  "rounds": []
+  "last": 1240,
+  "generated": "2026-09-07",
+  "rounds": [
+    { "round": 1240, "numbers": [11, 13, 19, 20, 31, 44], "bonus": 27 }
+  ]
 }
